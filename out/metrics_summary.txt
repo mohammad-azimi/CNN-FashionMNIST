@@ -1,0 +1,7 @@
+Device: cpu
+Epochs: 25
+Final Train Acc: 0.8875
+Final Val Acc: 0.8882
+Test ROC-AUC (OvR): 0.990444
+CAM threshold: 0.4
+Mean IoU (first 8 samples): 0.508865
